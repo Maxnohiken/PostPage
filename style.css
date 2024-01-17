@@ -1,0 +1,19 @@
+#container{
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+    width: 650px;
+}
+
+#post{
+    border: solid cadetblue;
+    border-radius: 10px;
+    background-color: slategray;
+    margin: 5px;
+}
+
+#email{
+    font-weight: bolder;
+    background-color: yellow;
+}
+
